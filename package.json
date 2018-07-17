@@ -1,0 +1,28 @@
+{
+  "name": "rename-external-imports",
+  "version": "1.0.0",
+  "description": "Rename external Imports in ES6 Modules for local Bundling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iDiver76/rename-external-imports.git"
+  },
+  "keywords": [
+    "ES6",
+    "gulp",
+    "external imports"
+  ],
+  "author": "David Janssen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iDiver76/rename-external-imports/issues"
+  },
+  "homepage": "https://github.com/iDiver76/rename-external-imports#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-string-replace": "^1.1.1"
+  }
+}
